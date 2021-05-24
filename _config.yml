@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: smoothbear
+title: Bear
 email: smoothbear04@gmail.com
 author: smoothbear
 copyright: Copyright © 1970-2010
