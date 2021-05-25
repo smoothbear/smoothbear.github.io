@@ -143,7 +143,7 @@ yat:
 # Gitment comments
 gitment:
    username: "smoothbear"
-   repo: "https://github.com/smoothbear/smoothbear.github.io"
+   repo: "smoothbear.github.io"
    client_id: "d3f713079a6ff6270aff"
    client_secret: "614353885f5127d2cad744d9f8944ff1c08d3e12"
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
